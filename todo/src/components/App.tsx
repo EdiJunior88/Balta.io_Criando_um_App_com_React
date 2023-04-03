@@ -2,14 +2,22 @@ import React from "react";
 import Navbar from "./Navbar";
 import TodoList from "./TodoList";
 import TodoContext from "../contexts/TodoContext";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import AddTodo from "./AddTodo";
 
 const App = () => {
   return (
     <TodoContext>
-      <div className='uk-container'>
+      <BrowserRouter>
         <Navbar></Navbar>
-        <TodoList></TodoList>
-      </div>
+        <br />
+        <div className='uk-container'>
+          <Routes>
+            <Route path="/create" element={<AddTodo></AddTodo>} />
+            <Route path="/" element={<TodoList></TodoList>} />
+          </Routes>
+        </div>
+      </BrowserRouter>
     </TodoContext>
   );
 };
