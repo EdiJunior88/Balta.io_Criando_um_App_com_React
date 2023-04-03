@@ -3,6 +3,8 @@
 
 <p>Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto!</p>
 
+<hr>
+
 <strong>Fundamentos do React</strong>
 
 <p>Aprenda a criar e estruturar Apps com React, trabalhando com componentes e focando no reuso de código.</p>
@@ -56,9 +58,7 @@
   </ul>
 
   <strong>Conclusão</strong>
-   <ul>
     <li>Parabéns, você conseguiu</li>
-   </ul>
 </ul>
 
 <hr>
