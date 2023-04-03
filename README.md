@@ -56,7 +56,6 @@
     <li>React Forms</li>
     <li>Build e Conclusão</li>
   </ul>
-
   <strong>Conclusão</strong>
     <ul>
       <li>Parabéns, você conseguiu</li>
