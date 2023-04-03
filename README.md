@@ -55,10 +55,10 @@
     <li>React Router</li>
     <li>React Forms</li>
     <li>Build e Conclusão</li>
-  </ul>
 
   <strong>Conclusão</strong>
     <li>Parabéns, você conseguiu</li>
+  </ul>
 </ul>
 
 <hr>
