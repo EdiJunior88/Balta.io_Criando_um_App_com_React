@@ -78,7 +78,7 @@
 
 <p>
   <a href="https://wakatime.com/badge/github/EdiJunior88/Balta.io_Criando_um_App_com_React">
-    <img src="https://wakatime.com/badge/github/EdiJunior88/Balta.io_Criando_um_App_com_React.svg" alt="wakatime">
+   <img src="https://wakatime.com/badge/github/EdiJunior88/Balta.io_Criando_um_App_com_React.svg" alt="wakatime">
   </a>
 </p>
 
