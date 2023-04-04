@@ -29,6 +29,10 @@
 
 <hr>
 
+<strong>Link do projeto:</strong> <a href="https://baltaio-mytodolist.netlify.app/">https://baltaio-mytodolist.netlify.app/</a>
+
+<hr>
+
 <ul>
   <strong>Criação do App</strong>
   <ul>
@@ -64,6 +68,12 @@
 
 <hr>
 
+<h3>Status do deploy</h3>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53e24c1a-3530-4564-823c-0b24dea0f7c8/deploy-status)](https://app.netlify.com/sites/baltaio-mytodolist/deploys)
+
+<hr>
+
 <h3>Tempo Estudando a documentação</h3>
 
 <p>
@@ -75,4 +85,4 @@
 <hr>
 
 <h4><b>Aulas:</b> :vhs: 23 video-aulas (Total de 2.1 horas)</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>
