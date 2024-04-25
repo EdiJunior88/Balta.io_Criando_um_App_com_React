@@ -29,7 +29,7 @@
 
 <hr>
 
-<strong>Link do projeto:</strong> <a href="https://baltaio-mytodolist.netlify.app/">https://baltaio-mytodolist.netlify.app/</a>
+<strong>Link do projeto:</strong> <a href="https://edijunior88-balta-mytodolist.netlify.app/">https://edijunior88-balta-mytodolist.netlify.app/</a>
 
 <hr>
 
@@ -81,8 +81,9 @@ Para ver todas as tecnologias [clique aqui](/techstack.md)
 <hr>
 
 <h3>Status do deploy</h3>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/53e24c1a-3530-4564-823c-0b24dea0f7c8/deploy-status)](https://app.netlify.com/sites/baltaio-mytodolist/deploys)
+<p>
+  <img src="https://api.netlify.com/api/v1/badges/d6746747-977e-44dd-9db6-f20bf50b854b/deploy-status" />
+</p>
 
 <hr>
 
