@@ -1,8 +1,8 @@
 repo_name: EdiJunior88/Balta.io_Criando_um_App_com_React
-report_id: 742fcd7777198a2019cec73e10d7e63e
+report_id: c7562fb6d05b70558ee55f65e6799008
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:36:37+00:00'
+timestamp: '2024-05-02T15:30:02+00:00'
 requested_by: EdiJunior88
 provider: github
 branch: main
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-12-11 13:34:13.000000000 Z
+  last_updated_on: 2024-04-15 11:01:28.000000000 Z
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
   website_url: http://www.typescriptlang.org
@@ -45,11 +45,11 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: React Router
   description: A complete routing solution for React.js
   website_url: https://github.com/rackt/react-router
-  version: 6.21.3
+  version: 6.22.3
   license: MIT
   open_source: true
   hosted_saas: false
@@ -59,7 +59,7 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -107,7 +107,7 @@ tools:
 - name: "@types/react"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react
-  version: 18.2.48
+  version: 18.2.79
   license: MIT
   open_source: true
   hosted_saas: false
@@ -117,11 +117,11 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: "@types/react-dom"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react-dom
-  version: 18.2.18
+  version: 18.2.25
   license: MIT
   open_source: true
   hosted_saas: false
@@ -131,7 +131,7 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: "@types/react-router-dom"
   description: TypeScript definitions for React Router
   package_url: https://www.npmjs.com/@types/react-router-dom
@@ -145,7 +145,7 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -159,11 +159,11 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: react-router-dom
   description: DOM bindings for React Router
   package_url: https://www.npmjs.com/react-router-dom
-  version: 6.21.3
+  version: 6.22.3
   license: MIT
   open_source: true
   hosted_saas: false
@@ -173,11 +173,11 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-15 13:38:20.000000000 Z
+  last_updated_on: 2024-04-22 10:12:49.000000000 Z
 - name: vite
   description: Native-ESM powered web dev build tool
   package_url: https://www.npmjs.com/vite
-  version: 5.0.12
+  version: 5.2.10
   open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
@@ -186,11 +186,11 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React/blob/main/todo/package-lock.json
   detection_source: todo/package.json
   last_updated_by: dependabot[bot]
-  last_updated_on: 2024-01-19 22:33:37.000000000 Z
+  last_updated_on: 2024-04-22 10:12:43.000000000 Z
 - name: yup
   description: Dead simple Object schema validation
   package_url: https://www.npmjs.com/yup
-  version: 1.3.3
+  version: 1.4.0
   license: MIT
   open_source: true
   hosted_saas: false
